@@ -1,0 +1,11 @@
+https://github.com/Marcos-Eduardo/DS-TP-Turma-B.git
+
+
+
+git config --global user.name "Marcos Eduardo"
+git config --global user.email "marcos.e.oliveira01@hotmail.com"
+
+
+//git remote add origin https://github.com/Marcos-Eduardo/DS-TP-Turma-B.git
+
+git remote add origin https://github.com/Marcos-Eduardo/RepositorioTurmaB.git
